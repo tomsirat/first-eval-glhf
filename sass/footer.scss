@@ -1,0 +1,31 @@
+.container-links {
+    
+    @include spacement-elements;
+    width: 75%;
+    margin: auto;
+
+    ul li {
+        list-style: none;
+    }
+
+}
+
+.container-social {
+
+    @include spacement-elements;
+    @include center-elements-no-w ;
+    
+    div.row:nth-child(2) {
+        width: 0;
+    }
+
+    i {
+        margin-right: 1rem;
+    }
+}
+
+.container-copyright {
+    @include spacement-elements;
+    @include center-elements-no-w ;
+}
+

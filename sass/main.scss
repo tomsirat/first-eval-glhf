@@ -1,0 +1,21 @@
+.background-grey {
+    background-color: #d8dad9;
+}
+
+
+.title-section {
+    @include center-elements;
+
+    h2 {
+        @include spacement-elements;
+        width: 100%;
+    }
+
+}
+
+.container-img {
+    @include spacement-elements;
+    width: 68%;
+    margin: auto;
+
+}

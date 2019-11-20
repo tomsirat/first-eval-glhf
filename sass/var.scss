@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Kaushan Script', cursive;
+}
+
+body {
+    font-family: 'Alata', sans-serif;
+}
+
+@mixin spacement-elements {
+    padding-top: 2rem;
+    padding-bottom : 2rem;
+}
+
+@mixin center-elements {
+    display: flex;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+@mixin center-elements-no-w {
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+
+

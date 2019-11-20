@@ -1,0 +1,64 @@
+h1 {
+  font-family: 'Kaushan Script', cursive; }
+
+body {
+  font-family: 'Alata', sans-serif; }
+
+.logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px; }
+
+.navbar {
+  width: 70%;
+  margin-left: auto; }
+  .navbar a {
+    margin-left: 1rem;
+    margin-right: 1rem; }
+
+.background-grey {
+  background-color: #d8dad9; }
+
+.title-section {
+  display: flex;
+  text-align: center;
+  width: 80%;
+  margin: auto; }
+  .title-section h2 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    width: 100%; }
+
+.container-img {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  width: 68%;
+  margin: auto; }
+
+.container-links {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  width: 75%;
+  margin: auto; }
+  .container-links ul li {
+    list-style: none; }
+
+.container-social {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  display: flex;
+  text-align: center;
+  margin: auto; }
+  .container-social div.row:nth-child(2) {
+    width: 0; }
+  .container-social i {
+    margin-right: 1rem; }
+
+.container-copyright {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  display: flex;
+  text-align: center;
+  margin: auto; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,13 @@
+.logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px; }
+
+.navbar {
+  width: 70%;
+  margin-left: auto; }
+  .navbar a {
+    margin-left: 1rem;
+    margin-right: 1rem; }
+
+/*# sourceMappingURL=header.css.map */
