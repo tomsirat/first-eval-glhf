@@ -13,9 +13,16 @@
 
 }
 
+
 .container-img {
     @include spacement-elements;
     width: 68%;
     margin: auto;
 
+}
+
+.container-top-img {
+    @include spacement-elements;
+    width: 68%;
+    margin: auto;
 }

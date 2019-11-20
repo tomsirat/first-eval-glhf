@@ -35,6 +35,12 @@ body {
   width: 68%;
   margin: auto; }
 
+.container-top-img {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  width: 68%;
+  margin: auto; }
+
 .container-links {
   padding-top: 2rem;
   padding-bottom: 2rem;
